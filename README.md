@@ -1,3 +1,3 @@
 # test-repo
-this is the test erepo
+this is the test repo
 hello world!!!!
