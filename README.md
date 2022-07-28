@@ -1,9 +1,4 @@
 # test-repo
 this is the test repo
 hello vibish welcome!
-hello vini
-hello
-sdasd
-fbcb
-dadv
-dev
+it is pleasure
